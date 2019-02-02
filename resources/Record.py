@@ -8,7 +8,7 @@ from enum import Enum
 from shutil import move
 from os import fdopen, remove
 import base64
-import requests
+
 
 FILNE = 'Accolade.txt'
 FILTEMP = 'tmp.txt'
