@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": false,
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "venv\\Scripts\\python.exe"
+}
